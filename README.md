@@ -1,6 +1,6 @@
 # begin
 
-https://github.com/gelabicha/begin/tree/main
+[https://github.com/gelabicha/begin/tree/main](https://github.com/gelabicha/begin/blob/main/server-stats.sh)
 
 
 Total CPU usage
